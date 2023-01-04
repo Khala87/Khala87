@@ -4,7 +4,7 @@
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 
 <br>
 
@@ -12,10 +12,10 @@
 Hola,😀 Soy Katherine Gutiérrez, soy full-stack web developer 👨‍💻full-time, me encuentro actualmente en Buenos Aires, Argentina. Mi aprendizaje de programación fue por medio del bootcamp de Soy Henry, una academia con un gran nivel educativo en materia de programación sus bases son JavaScript, Html, Redux, Nodejs, SQl, Css, puro, de tal forma hace desafiante el aprendizaje de la programación, dándote un nivel de satisfacción enorme al culminarlo, a mis conocimientos aprendidos del bootcamp le e sumado pequeños proyectos paralelos para reforzar mis conocimientos y desafiarme a aplicar unas tecnologias.🚀😃😃</div>  
   
 
-- 🌱 I’m currently learning Three js 🙃  
+- 🌱 Actualmente estoy aprendiendo Three js  🙃  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: me gusta darle cumplidos a desconocidos/das solo por hacerlos reir 😃❤️
   
 
 <br/>
@@ -25,9 +25,9 @@ Hola,😀 Soy Katherine Gutiérrez, soy full-stack web developer 👨‍💻full
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Mi Set de Herramientas</b>
 
-## My Skill Set  
+ 
 <table><tr><td valign="top" width="33%">
 
 
@@ -96,18 +96,12 @@ Hola,😀 Soy Katherine Gutiérrez, soy full-stack web developer 👨‍💻full
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Khala87" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/katherine-gutierrez-fragiel-872b28176/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
+## Contactame  
  <p alinear = "centro">
       <br/>
+ <a href="https://github.com/Khala87" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href = "https://www.linkedin.com/in/katherine-gutierrez-fragiel-872b28176/" objetivo =" en blanco "> <img alinear =" centro" src = "https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = altura "azzar" = "30"/> </a>
 <a href = "fragiel87@gmail.com" target="blank"> <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/> </a>
     </p>
@@ -143,5 +137,4 @@ Hola,😀 Soy Katherine Gutiérrez, soy full-stack web developer 👨‍💻full
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
