@@ -9,7 +9,7 @@
 <br>
 
 ### <div align="center">
-Hola,😀 Soy Katherine Gutiérrez, soy full-stack web developer 👨‍💻full-time, me encuentro actualmente en Buenos Aires, Argentina. Mi aprendizaje de programación fue por medio del bootcamp de Soy Henry, una academia con un gran nivel educativo en materia de programación sus bases son JavaScript, Html, Redux, Nodejs, SQl, Css, puro, de tal forma hace desafiante el aprendizaje de la programación, dándote un nivel de satisfacción enorme al culminarlo, a mis conocimientos aprendidos del bootcamp le e sumado pequeños proyectos paralelos para reforzar mis conocimientos y desafiarme a aplicar unas tecnologias.🚀😃😃</div>  
+Hola,😀 soy Katty,  Full-Stack Web Developer 👨‍💻 full-time, me encuentro actualmente en Buenos Aires, Argentina. Mi aprendizaje de programación fue por medio del bootcamp de Soy Henry, una academia con un gran nivel educativo en materia de programación sus bases son JavaScript, Html, Redux, Nodejs, SQL, Css, puro, de tal forma hace desafiante el aprendizaje de la programación, dándote un nivel de satisfacción enorme al culminarlo, a mis conocimientos aprendidos del bootcamp le e sumado pequeños proyectos paralelos para reforzar mis conocimientos y desafiarme a aplicar unas tecnologias.🚀😃😃</div>  
   
 
 - 🌱 Actualmente estoy aprendiendo Three js  🙃  
