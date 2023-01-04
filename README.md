@@ -105,13 +105,28 @@ Hola,😀 Soy Katherine Gutiérrez, soy full-stack web developer 👨‍💻full
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+ <p alinear = "centro">
+      <br/>
+<a href = "https://www.linkedin.com/in/katherine-gutierrez-fragiel-872b28176/" objetivo =" en blanco "> <img alinear =" centro" src = "https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = altura "azzar" = "30"/> </a>
+<a href = "fragiel87@gmail.com" target="blank"> <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="azzar" height="30"/> </a>
+    </p>
+<p alinear = "centro">
+<a href = "https://instagram.com/kattyk87?igshid=Yzg5MTU1MDY=" objetivo =" en blanco "> <img alinear =" centro" src = "https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt = altura "azzar" = "30"/> </a>
+<a href = "https://wa.me/+6282232529804" objetivo =" en blanco "> <img alinear =" centro" src = "https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt = altura "azzar" = "30"/> </a>
+<a href = "https://twitter.com/siapa_hayosiapa" objetivo =" en blanco "> <img alinear =" centro" src = "https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt = altura "azzar" = "30"/> </a>
+      <br>
   
 
 <br/>  
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Khala87&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>  
 
 <br/>  
 
