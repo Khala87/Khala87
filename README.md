@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , Soy Katherine Gutierrez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b> </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p alinear = "centro"> <img src = "https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
